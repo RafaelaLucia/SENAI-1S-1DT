@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\bin\Debug\net5.0\testecalculadora.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\bin\Debug\net5.0\testecalculadora.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\bin\Debug\net5.0\testecalculadora.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\bin\Debug\net5.0\testecalculadora.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\bin\Debug\net5.0\testecalculadora.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\bin\Debug\net5.0\ref\testecalculadora.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\bin\Debug\net5.0\testecalculadora.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\ref\testecalculadora.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\testecalculadora\obj\Debug\net5.0\testecalculadora.genruntimeconfig.cache

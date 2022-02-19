@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\bin\Debug\net5.0\ExercicioUm.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\bin\Debug\net5.0\ExercicioUm.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\bin\Debug\net5.0\ExercicioUm.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\bin\Debug\net5.0\ExercicioUm.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\bin\Debug\net5.0\ExercicioUm.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\bin\Debug\net5.0\ref\ExercicioUm.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\bin\Debug\net5.0\ExercicioUm.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ref\ExercicioUm.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioUm\obj\Debug\net5.0\ExercicioUm.genruntimeconfig.cache

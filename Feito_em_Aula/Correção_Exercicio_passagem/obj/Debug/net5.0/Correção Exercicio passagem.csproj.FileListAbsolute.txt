@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\bin\Debug\net5.0\Correção Exercicio passagem.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\bin\Debug\net5.0\Correção Exercicio passagem.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\bin\Debug\net5.0\Correção Exercicio passagem.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\bin\Debug\net5.0\Correção Exercicio passagem.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\bin\Debug\net5.0\Correção Exercicio passagem.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\bin\Debug\net5.0\ref\Correção Exercicio passagem.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\bin\Debug\net5.0\Correção Exercicio passagem.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\ref\Correção Exercicio passagem.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Correção Exercicio passagem\obj\Debug\net5.0\Correção Exercicio passagem.genruntimeconfig.cache

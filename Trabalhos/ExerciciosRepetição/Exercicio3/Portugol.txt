@@ -1,0 +1,92 @@
+programa{
+    caractere nome
+    inteiro idade
+    caractere salarioS
+    real salario
+    caractere valEstado
+
+    funcao inicio () {
+    logico nomeValor = FALSO
+    
+    escreva (insira seu nome: )
+    leia(nome)
+
+    enquanto (nomeValor = FALSO) faca
+    
+    se (nome <> "") entao
+    escreva (nome válido)
+    nomeValor = VERDADEIRO
+
+    senao
+    escreva (O nome não pode ser vazio)
+    leia (nome)
+    fimse
+
+    fimenquanto 
+
+    logico idadeValor = FALSO
+
+    escreva (insira sua idade: )
+    leia (idade)
+
+    enquanto (idadeValor = FALSO) faca
+    
+    se (idade >= 0 e idade <= 150) entao
+    escreva (idade válido)
+    idadeValor = VERDADEIRO
+
+    senao
+    escreva (Essa idade não é válida)
+    leia (idade)
+    fimse
+
+    fimenquanto 
+
+    logico valorSalario = FALSO
+    
+    enquanto (valorSalario = FALSO) faca
+    
+    escreva (insira seu salário: )
+    leia(salarioS)
+
+    se (salarioS = "") entao
+    salarioS = "0"
+    fimse
+    
+    se (salario > 0) entao
+    escreva (salário válido)
+    valorSalario = VERDADEIRO
+    fimse
+    se (salario <= 0) entao
+    escreva (Salário inválido, tente novamente)
+    fimse
+
+    fimenquanto 
+
+    logico valEstado = FALSO
+
+    enquanto (valEstado = FALSO) faca
+    
+    escreva (Insira seu estado civil, utilize 's' para solteiro(a), 'c' para casado(a), 'v' para viuvo(a) e 'd' para divorciado(a))
+    leia (estadoC)
+
+    se (estadoC = "s" ou estadoC = "c" ou estadoC = "v" ou estadoC "d") entao
+    escreva (Estado civil válido)
+    valEstado = VERDADEIRO
+
+    senao
+    escreva (Estado civil inválido, tente novamente)
+    leia (estadoC)
+    fimse
+
+    fimenquanto 
+    
+    escreva (========================================================)
+    escreva ("O nome inserido foi: " + nome)
+    escreva ("A idade inserida foi: " + idade + " anos")
+    escreva ("O valor do salário inserido foi: " + salarioS + " reais")
+    escreva ("O estado civil inserido foi: " + estadoC)
+    escreva (========================================================)
+
+  }
+}

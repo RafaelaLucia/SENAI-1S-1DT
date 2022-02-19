@@ -1,0 +1,97 @@
+@{
+    ViewData["Title"] = "Edicao";
+}
+
+<header class="Hheaderr">
+    <div class="Hcabecalho">
+
+        <div class="Hlogo">
+            <a><img class="Hlogodev" src="/img/Instadev (1).png" alt="Instadev"></a>
+        </div>
+
+        <div class="Hpesquisa">
+            <input class="Hpesq" placeholder="   Pesquisar" type="text">
+            <img class="Hlupa" src="/img/Buscar.png" alt="">
+        </div>
+
+        <div class="Hcoisas">
+            <div class="Hcoisinhas">
+                <a asp-area="" asp-controller="Feed" asp-action="Index"> <img src="/img/Vector.png" alt=""> </a>
+                <a href="#"> <img src="/img/plane 1.png" alt=""> </a>
+                <a href="#"> <img src="/img/compass 1.png" alt=""> </a>
+                <a href="#"> <img src="/img/Vector (1).png" alt=""> </a>
+                <a asp-area="" asp-controller="Perfil" asp-action="Index"> <img class="Hperfil" src="/img/@ViewBag.FotoUsuario"
+                        alt=""></a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<main>
+
+    <section class="teste">
+        <div class="Abox_editar">
+            <div class="Alinha_escrita">
+                <div class="Alinha_editar">
+                    <hr class="Alinha_um">
+                    <span class="Aspan"> Editar Perfil</span>
+                </div>
+                <hr class="Alinha_dois">
+            </div>
+
+        <form class="form_post" action='@Url.Action("Alterar")' method="POST" enctype="multipart/form-data">
+            <section class="Abox_usuario">
+                <div class="Aparte_usuario">
+
+                    <img src="/img/@ViewBag.FotoUsuario" alt="Foto Perfil">
+                    <div class="Aespaço_">
+                        <span>@ViewBag.NomeUsuario</span>
+                        
+                            <label for="imagem">Alterar foto do perfil</label>
+                            <input type="file" name="Imagem">
+                    
+                    </div>
+                </div>
+                <div>
+                    <div class="Aespaço_nome">
+                        <span class="Aspan"> Nome </span>
+                        
+                            <input class="Aespaço_escrever" type="text" value="@ViewBag.NomeCompleto">
+                    </div>
+                    <p class="Ap" class="Aparagrafo1"> Ajude as pessoas a descobrir sua conta usando o nome pelo qual
+                        você é conhecido: seu nome completo, apelido ou nome comercial.
+
+                        Você pode alterar o seu nome apenas duas vezes a cada 14 dias.
+                    </p>
+                </div>
+                <div>
+                    <div class="Aespaço_Nusuario">
+                        <span class="Aspan"> Nome de Usuário </span>
+                        
+                            <input class="Aespaço_escrever" type="text" value="@ViewBag.NomeUsuario">
+                        
+                    </div>
+                    <p class="Ap" class="paragrafo2"> Na maioria dos casos, você poderá alterar seu nome de usuário
+                        novamente para nascimento_tr por mais 14 dias.</p>
+                </div>
+                <div>
+                    <p class="Ap" class="Aparagrafo3"> Informações pessoais:
+                        Forneça suas informações pessoais, mesmo se a conta for usada para uma empresa, um animal de
+                        estimação ou outra coisa. Elas não farão parte do seu perfil público.</p>
+                    <div class="Aespaço_email">
+                        <span class="Aspan"> Email </span>
+                        
+                            <input class="Aespaço_escrever" type="text" value="@ViewBag.Email">
+                        
+                    </div>
+                </div>
+                <div class="Aespaço_final">
+
+                    <button type="submit" class="Abutton"> Enviar</button>
+                    <a asp-area="" asp-controller="Edicao" asp-action="Excluir">Desativar minha conta definitivamente</a>
+                </div>
+            </section>
+        </form>
+    </section>
+
+</main>

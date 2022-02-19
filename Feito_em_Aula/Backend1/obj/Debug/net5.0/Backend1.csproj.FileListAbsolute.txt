@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Backend1\bin\Debug\net5.0\Backend1.exe
+C:\Users\Batat\Downloads\Rafaela\Backend1\bin\Debug\net5.0\Backend1.deps.json
+C:\Users\Batat\Downloads\Rafaela\Backend1\bin\Debug\net5.0\Backend1.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Backend1\bin\Debug\net5.0\Backend1.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Backend1\bin\Debug\net5.0\Backend1.dll
+C:\Users\Batat\Downloads\Rafaela\Backend1\bin\Debug\net5.0\ref\Backend1.dll
+C:\Users\Batat\Downloads\Rafaela\Backend1\bin\Debug\net5.0\Backend1.pdb
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.dll
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\ref\Backend1.dll
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.pdb
+C:\Users\Batat\Downloads\Rafaela\Backend1\obj\Debug\net5.0\Backend1.genruntimeconfig.cache

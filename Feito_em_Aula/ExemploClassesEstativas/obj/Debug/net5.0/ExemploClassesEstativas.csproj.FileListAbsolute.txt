@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\bin\Debug\net5.0\ExemploClassesEstativas.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\bin\Debug\net5.0\ExemploClassesEstativas.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\bin\Debug\net5.0\ExemploClassesEstativas.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\bin\Debug\net5.0\ExemploClassesEstativas.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\bin\Debug\net5.0\ExemploClassesEstativas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\bin\Debug\net5.0\ref\ExemploClassesEstativas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\bin\Debug\net5.0\ExemploClassesEstativas.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ref\ExemploClassesEstativas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploClassesEstativas\obj\Debug\net5.0\ExemploClassesEstativas.genruntimeconfig.cache

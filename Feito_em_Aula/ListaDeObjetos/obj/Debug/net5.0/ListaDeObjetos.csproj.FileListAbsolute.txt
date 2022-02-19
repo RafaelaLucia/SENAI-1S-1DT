@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\bin\Debug\net5.0\ListaDeObjetos.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\bin\Debug\net5.0\ListaDeObjetos.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\bin\Debug\net5.0\ListaDeObjetos.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\bin\Debug\net5.0\ListaDeObjetos.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\bin\Debug\net5.0\ListaDeObjetos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\bin\Debug\net5.0\ref\ListaDeObjetos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\bin\Debug\net5.0\ListaDeObjetos.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ref\ListaDeObjetos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ListaDeObjetos\obj\Debug\net5.0\ListaDeObjetos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\bin\Debug\net5.0\Sistema de produtos.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\bin\Debug\net5.0\Sistema de produtos.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\bin\Debug\net5.0\Sistema de produtos.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\bin\Debug\net5.0\Sistema de produtos.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\bin\Debug\net5.0\Sistema de produtos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\bin\Debug\net5.0\ref\Sistema de produtos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\bin\Debug\net5.0\Sistema de produtos.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\ref\Sistema de produtos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Sistema de produtos\obj\Debug\net5.0\Sistema de produtos.genruntimeconfig.cache

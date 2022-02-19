@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\bin\Debug\net5.0\Exercicio 03.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\bin\Debug\net5.0\Exercicio 03.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\bin\Debug\net5.0\Exercicio 03.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\bin\Debug\net5.0\Exercicio 03.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\bin\Debug\net5.0\Exercicio 03.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\bin\Debug\net5.0\ref\Exercicio 03.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\bin\Debug\net5.0\Exercicio 03.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\ref\Exercicio 03.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Exercicios Pilares\Exercicio 03\obj\Debug\net5.0\Exercicio 03.genruntimeconfig.cache

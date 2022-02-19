@@ -1,0 +1,1014 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Titillium+Web&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+/* COMEÇO ESTILO HEADER */
+
+main{
+    background-color: #FAFAFA;
+}
+
+.Hcabecalho{
+    height: 100%;
+    width: 65%;
+     background-color:white ; 
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.Hheaderr{
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 53px;
+    left: 0px;
+    top: 0px;
+    z-index: 99px;
+}
+.Hlogo{
+    height: 100%;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: blue; */
+}
+
+.Hlogodev{
+    width: 105%;
+    margin-top: 2px;
+    margin-left: 22px;
+}
+
+.Hpesquisa{
+    height: 100%;
+    margin-left: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Hpesq{
+    width: 220px;
+    border-radius: 3px;
+    background-color:#e9e9e9;
+    height: 25px;
+    font-family: Segoe UI;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+}
+.Hlupa{
+    display: flex;
+    position: absolute;
+    margin-right: 70px;
+}
+.Hcoisas{
+    height: 100%;
+    width: 25%;
+    /* background-color: gray; */
+    display: flex;
+    align-items: center;
+}
+.Hcoisinhas{
+    height: 28px;
+    width: 100%;
+    /* background-color: greenyellow; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.Hperfil{
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+}
+
+/* FIM ESTILO HEADER */
+
+/* COMEÇO ESTILO LOGIN */
+
+body{
+    background-color: #FAFAFA;
+}
+
+.Lmain{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.l_logo{
+    margin: 30px 0;
+    width: 209px;
+}
+
+.l_padraoFonte{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #353535;
+}
+
+.l_padraoLinks{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;  
+    color: #2686CC;
+    text-decoration: none;
+}
+
+.login{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 342px;
+    height: 392px;
+    margin-bottom: 20px;
+    border: 1px solid #F1F1F1;
+}
+
+.login input{
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    width: 267px;
+    height: 35px;
+    margin: 5px 0;
+    padding-left: 10px;
+}
+
+.login button{
+    background: #2686CC;
+    width: 267px;
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin: 15px 0;
+}
+
+.LesqueceuSenha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.Lou{
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #909090;
+    margin: 0 15px;
+}
+
+.LesqueceuSenha hr{
+    width: 109px;
+    height: 0;
+    border-color: #CBCBCB;
+}
+
+.LesqueceuSenhaLink{
+    margin: 40px 0;
+}
+
+.l_cadastrese{
+    background-color: white;
+    width: 342px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 3px;
+    background-color: white;
+}
+
+.LappLinks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.l_quadradoSpan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.Lapp{
+    display: flex;
+    flex-direction: row;
+    margin-top: 22px;
+}
+
+.Lapp img{
+    width: 147px;
+}
+
+.l_botaoEntrar{
+    border:#2686CC;
+    cursor: pointer;
+}
+
+.l_botaoEntrarTeste{
+    width: 275px;
+    height: 30px;
+    background-color: #2686CC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color: #fff;
+    margin-top: 26px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* FIM ESTILO LOGIN */
+/* COMEÇO ESTILO CADASTRO */
+
+.Cpag{
+    max-width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FAFAFA;
+}
+.Ccadastro{
+    width: 100%;
+    max-width: 342px;
+    height: 700px;
+    margin-top: 9px;
+}
+.Cbloco1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid rgb(230, 230, 230);
+    background-color: white;
+    height: 482px;
+
+}
+.ClogoPag{
+    width: 209px;
+     margin-top: 13px; 
+    margin-bottom: 23px;
+}
+
+.pag{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CtextoCadastro{
+    display: flex;
+    flex-wrap: wrap;
+    width: 186px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #909090;
+    margin-bottom: 18px;
+}
+.CtextoCadastro2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 254px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: #909090;
+    margin-bottom: 39px;
+}
+.Cescrever{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.CescreverCadastro{
+    width: 260px;
+    height: 35px;
+    background-color: #FAFAFA;
+    border: 2px solid rgb(230, 230, 230);
+    border-radius: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    color: rgb(155, 155, 155);
+}
+.CbotaoCadastro{
+    width: 275px;
+    height: 30px;
+    background-color: #2686CC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color: #fff;
+    margin-top: 26px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Cbloco2{
+    width: 100%;
+    max-width: 342px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 3px;
+    background-color: white;
+    margin-bottom: 24px;
+    margin: inherit;
+}
+.CtextoConectar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 160px;
+    color: #353535;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.CtextoConectar a{
+    text-decoration: none;
+    color: #2686CC;
+    font-weight: bolder;
+}
+
+.Cbloco3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #353535;
+    margin-top: 18px;
+}
+
+.Cbloco3 img{
+    width: 147px;
+}
+
+.Cimagensapps{
+    display: flex;
+    flex-direction: row;
+    margin-top: 22px;
+}
+
+/* ==== FIM ESTILO CADASTRO ==== */
+/* ==== COMEÇO ESTILO FEED ==== */
+
+.Fcontainer{
+    width: 55%;
+    margin: auto;
+    /* display: flex;
+    align-items: center;
+    margin-left: 241px; */
+}
+
+body{
+    background-color: #FAFAFA;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Fstories {
+    margin-top: 24px;
+    /* background-color: red; */
+}
+
+.Fsessao_stories {
+    display: flex;
+    align-items: center;
+}
+
+.Fconteudo_stories {
+    background-color: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    display: flex;
+    align-items: center;
+    width: 610px;
+    height: 113px; 
+    margin-top: 61px;
+}
+
+.Fperfil_stories {
+    width: 62px;
+    height: 80px; 
+   
+}
+
+.Fperfil_stories img {
+    height: 62px;
+    width: 62px;
+    border-radius: 50%;
+    margin-left: 45px;
+}
+
+#Fnome {
+    height: 17px;
+    font-size: 13px;
+    margin-left: 43px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+}
+
+.Fperfil_acesso {
+    display: flex;
+    align-items: center;
+    margin-left: 35px;
+    width: 300px;
+    height: 62px;
+}
+
+.Fperfil_acesso img {
+    width: 62px;
+    height: 62px;
+}
+
+.Facesso_nomes {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+#Facesso_perfil {
+    width: 238px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    color: black;
+}
+
+#Facesso_perfil2 {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    color: #B6B6B6;
+}
+
+.Fpostagem {
+    margin-top: 38px;
+}
+
+.Fconteudo_postagem {
+    width: 610px;
+    height: 166px;
+    background-color: #FFFFFF;
+    border: 1px solid #F1F1F1;
+}
+
+.Fperfil_postagem {
+    display: flex;
+    align-items: center;
+
+    height: 87px;
+}
+
+#Fimg_postagem {
+    width: 42px;
+    height: 42px;
+    margin: 0 15px 0 15px;
+}
+
+#Fimg_postagem img {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
+
+#Fnome_postagem {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.Finput_postagem {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+}
+
+.form_post {
+    display: flex;
+    width: 610px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Fdesc_postagem {
+    width: 230px;
+    height: 30px;
+    padding: 0 10px 0 20px;
+    background-color: #FAFAFA;
+    border: 1px solid #EAEAEA;
+    color: #ABABAB;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+#Fadd_img {
+    display: none;
+}
+
+.Flabel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 155px;
+    background: #D1D1D1;
+    color: #7D7D7D;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#imagem {
+    display: none;
+}
+
+#Ffn_postagem {
+    width: 140px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2686CC;
+    color: #FFFFFF;
+}
+
+.Fpost {
+    margin-top: 38px;
+}
+
+.Fconteudo_post {
+    width: 610px;
+    height: 610px;
+    background-color: #FFFFFF;
+    border: 1px solid #F1F1F1;
+}
+
+.Fperfil_post {
+    display: flex;
+    align-items: center;
+    height: 65px;
+}
+
+#Fimg_post {
+    height: 36px;
+    width: 36px;
+    margin: 0 10px 0 15px;
+}
+
+#Fimg_post img {
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+}
+
+#Fnome_post {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.Fimg {
+    width: 610px;
+    height: 340px;
+}
+
+.Fsessao1 {
+    display: flex;
+    justify-content: space-around;
+    width: 335px;
+}
+
+#Fpost_comentar {
+    box-sizing: border-box;
+    border-bottom: 1px solid #DCDCDC;
+    width: 220px;
+}
+
+.Fsessao2{
+    margin-top: 24px;
+    margin-left: 16px;
+}
+
+.Fsessao2 h4{
+    margin-top: 44px;
+    margin-left: 17px;
+}
+
+.Fh4{
+    font-weight: 400;
+    margin-left: 7px;
+    margin-top: 6px;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Fcomentario{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+.Fcomentario td img{
+    margin-left: 112px;
+    width: 15px;
+}
+
+/* FIM ESTILO FEED */
+/* COMEÇO ESTILO PERFIL */
+
+
+.Pmain{
+    background-color: #FAFAFA;
+}
+
+.Pcontainer_informacoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 99px;
+    margin-top: 52px;
+    margin: auto;
+    height: 228px;
+}
+
+.Pinformacoes_pai{
+    flex-direction: column;
+}
+
+.Pinformacoes_filho{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 396px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.Ph1{
+    margin-bottom: 24px;
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Ph3{
+    margin-top: 23px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.Pfoto_Perfil{
+
+  margin-right: 72px;
+  height: 154px;
+  width: 161px;
+  border-radius: 77px;
+    
+}
+
+.Pbotao_sair{
+    margin-left: 369px;
+    text-decoration: none;
+    margin-top: -14px;
+}
+
+.Phr{
+    border: 0.5px solid;
+    border-color: #DCDCDC;
+    margin-top: 15px;
+    width: 888px;
+    margin-left: 177px;
+}
+
+.Pa{
+    text-decoration: none;
+    color:#2686CC;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-right: 16px;
+}
+
+.PPubli_imagem{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 121px;
+    margin-top: 87px;
+}
+
+.PPubli_imagem img{
+height: 404px;
+}
+
+.Publi_descricao{
+    position: absolute;
+    left: 662px;
+    margin-top: -498px;
+}
+
+.Pcampo{
+    width: 430px;
+    height: 100%;
+    margin-left: 181px;
+    margin-top: 51px;
+    justify-content: space-between;
+}
+
+.Publi_descricao img{
+    width: 65px;
+    height: 66px;
+    border-radius: 34px;
+}
+
+.Pdescricao_pai{
+    margin-left: 98px;
+    display: flex;
+    flex-direction: column;
+    margin-top: -64px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16,41px;
+}
+
+.Pdescricao_filho{
+    position: absolute;
+    left: 663px;
+    margin-top: -408px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Pdescricao_filho img{
+    position: relative;
+    right: 285px;
+    margin-left: 17px;
+    top: -19px;
+}
+
+.Pdescricao_filho input{
+    width: 265px;
+    height: 156px;
+    position: absolute;
+    top: 75px;
+    position: relative;
+    display: inline-block;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 5.6em;
+    line-height: 31.2em;
+    text-align: justify;
+
+}
+
+.Picone{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 301px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 163px;
+    height: 17px;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 33px;
+    background-color: #FAFAFA;
+}
+
+.Pcomentario{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    left: 664px;
+    margin-top: -208px;
+    font-size: 13px;
+}
+
+.Pup{
+    font-family: 'Roboto', sans-serif;
+    color:#909090;
+    font-size: 20px;
+    margin-top: 10px;
+    position: absolute;
+    margin-top: 48px;
+
+}
+
+.Pdescricao_filho h5{
+    margin-top: -45px;
+}
+
+.Pup h4{
+    width: 165px;
+}
+
+.Pcomentario th{
+    font-weight: 900;
+}
+
+.Pcomentario td img{
+    margin-left: 112px;
+    width: 15px;
+}
+
+.Pcomentario tr{
+    margin-top: 1px;
+}
+
+.Pformu{
+    background-color: white;
+}
+
+/* ==== FIM ESTILO PERFIL ==== */
+/* ==== COMEÇO ESTILO ALTERAR ==== */
+
+
+.Abody{
+    background-color: #E5E5E5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 760px;
+  }
+
+.Abox_editar{
+    background-color: white;
+     height:  600px;
+     width: 935px;
+     margin-left: 15%;
+     margin-top:  6%;
+ }
+ 
+ .Alinha_editar{
+ display: flex;
+ }
+ 
+ .Alinha_escrita hr{
+    position:absolute;
+    left: 168px;
+ }
+ 
+ .Alinha_um{
+    width: 62px;
+    border: 2px solid #000000;
+    transform: rotate(90deg);
+    height: 0px;
+    margin-top:  31px;
+ }
+ 
+ .Alinha_escrita span{
+    font-style: normal;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 32px;
+    margin-top: 22px;
+ }
+ 
+ .Alinha_dois{
+    width: 593px;
+    border: 1px solid #F1F1F1;
+    height: 0px;
+    transform: rotate(90deg);
+    top: 60%;
+ }
+ 
+ .Abox_usuario{
+    margin-left: 40%;
+    margin-right: 14%;
+ }
+ 
+ .Aparte_usuario{
+    display: flex;
+    justify-content: space-between;
+    width: 203px;
+    align-items: center;
+ }
+ 
+ .Aparte_usuario img{
+    width: 50px;
+    height: 50px;
+ }
+ 
+ .Aespaço_{
+    display: grid;
+ }
+ 
+ .Ah1{
+    font-size: 18px;
+ }
+ 
+ a{
+    font-size: 14px;
+    color: #2686CC;
+    text-decoration: none;
+ }
+ 
+ .Aespaço_nome{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5%;
+ }
+ 
+ .Aspan{
+    font-weight: 600;
+ }
+ 
+ .Aparagrafo1{
+    padding-top: 2%;
+ }
+ 
+ .Aespaço_escrever{
+    width: 354px;
+    height: 30px;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    border-radius: 2px;
+    margin-left: 5%;
+    
+    padding: 14px;
+ }
+ 
+ .Ap{
+    color: #909090;
+    font-size: 12px;
+    margin-left: 101px;
+    white-space: pre-line;
+    margin-bottom: 20px;
+    text-align: justify;
+ }
+ 
+ .Aespaço_Nusuario{
+    display: flex;
+    align-items: center;
+    margin-top: 7%;
+    margin-left: -63px;
+ }
+ 
+ .Aparagrafo3{
+    padding-top: 3%;
+ }
+ 
+ .Aespaço_email{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ 
+ .Aespaço_final{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 101%;
+    margin-top: 7%;
+ }
+ 
+ .Abutton{
+    color: white;
+    font-size: 13px;
+    background-color: #2686CC;
+    border-radius: 2px;
+    width: 66px;
+    height: 30px;
+    margin-left: 18%;
+    border: none;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }

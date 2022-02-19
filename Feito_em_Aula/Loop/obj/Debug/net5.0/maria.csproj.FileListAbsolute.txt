@@ -1,0 +1,32 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\bin\Debug\net5.0\maria.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\bin\Debug\net5.0\maria.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\bin\Debug\net5.0\maria.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\bin\Debug\net5.0\maria.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\bin\Debug\net5.0\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\bin\Debug\net5.0\ref\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\bin\Debug\net5.0\maria.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\ref\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\maria\obj\Debug\net5.0\maria.genruntimeconfig.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\bin\Debug\net5.0\maria.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\bin\Debug\net5.0\maria.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\bin\Debug\net5.0\maria.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\bin\Debug\net5.0\maria.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\bin\Debug\net5.0\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\bin\Debug\net5.0\ref\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\bin\Debug\net5.0\maria.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\ref\maria.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Loop\obj\Debug\net5.0\maria.genruntimeconfig.cache

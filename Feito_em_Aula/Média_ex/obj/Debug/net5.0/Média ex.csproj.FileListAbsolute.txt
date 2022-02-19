@@ -1,0 +1,23 @@
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\appsettings.json
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\Média ex.exe
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\Média ex.deps.json
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\Média ex.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\Média ex.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\Média ex.dll
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\ref\Média ex.dll
+C:\Users\Batat\Downloads\Rafaela\Média ex\bin\Debug\net5.0\Média ex.pdb
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\staticwebassets\Média ex.StaticWebAssets.Manifest.cache
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\staticwebassets\Média ex.StaticWebAssets.xml
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\scopedcss\bundle\Média ex.styles.css
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.RazorTargetAssemblyInfo.cache
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.dll
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\ref\Média ex.dll
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.pdb
+C:\Users\Batat\Downloads\Rafaela\Média ex\obj\Debug\net5.0\Média ex.genruntimeconfig.cache

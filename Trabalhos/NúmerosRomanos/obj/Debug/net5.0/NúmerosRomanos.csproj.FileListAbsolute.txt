@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\bin\Debug\net5.0\NúmerosRomanos.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\bin\Debug\net5.0\NúmerosRomanos.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\bin\Debug\net5.0\NúmerosRomanos.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\bin\Debug\net5.0\NúmerosRomanos.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\bin\Debug\net5.0\NúmerosRomanos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\bin\Debug\net5.0\ref\NúmerosRomanos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\bin\Debug\net5.0\NúmerosRomanos.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\ref\NúmerosRomanos.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Trabalhos\NúmerosRomanos\obj\Debug\net5.0\NúmerosRomanos.genruntimeconfig.cache

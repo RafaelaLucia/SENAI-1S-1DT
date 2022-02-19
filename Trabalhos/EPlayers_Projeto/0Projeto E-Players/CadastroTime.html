@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Time</title>
+    <link rel="stylesheet" href="EstiloTimes.css">
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+
+    <header>
+        <div>
+            <img src="assets/logoeplayers.png" alt="">
+            <div class="links">
+            <nav id="menu">
+                
+                <a href="E-player.html">Início</a>
+                <a href="E-player.html#horarios">Horários</a>
+                <a href="E-player.html#campeonatos">Campeonatos</a>
+                <a href="E-player.html#resultados">Resultados</a>
+                <a href="E-player.html#noticias">Notícias</a>
+            
+            </nav>
+          </div>
+        </div>
+    </header>
+
+    <main>
+    <!-- <section class="banner">
+        <h1>Cadastro de Times</h1>
+        <div></div>
+        <img src="assets/bannercadastro.jpg" alt=""> 
+    </section> -->
+
+    <section class="container_banner">
+        <h1>Cadastro de Equipe</h1>
+    </section>
+
+    <section class="conteudo">
+        <div class="bloco">
+
+    <section>
+        <form action="/post">
+        
+        <section class="campos">
+        <label for="texto" id="l_nome">Id da Equipe</label>
+        <input type="text" onfocus="this.value=''" value="Escreva o id da equipe..." name="equipe">
+
+        <label for="texto" id="l_nome">Nome da Equipe</label>
+        <input type="text" onfocus="this.value=''" value="Escreva o nome da equipe..." name="equipe">
+
+        <label id="emblema" for="upload">Emblema</label>
+
+        <form action="" method="post" enctype="multipart/form-data">
+          <div class="escolher_imagem">
+              <input type="file" name="upload"
+              accept="image/png, image/jpeg"/>
+          </div>
+
+        </section>
+      </section>
+
+      <section class="botaoTime">
+      <input id="botao" type="submit" value="Cadastrar">
+      
+      </section>
+
+    </form>
+    </section>
+
+
+    <section class="tabela1">
+        <table class="tabela">
+        <h2>Lista de Times</h2>
+        <tr>
+            <th id="nome">Nome da Equipe</th>
+            <th id="equipe">Emblema</th>
+        </tr>
+        <tr>
+            <td>Senai Cytechs</><img src="Assets/FLA 1.png"/></></td>
+        </tr>
+        <tr>
+            <td>Flamengo</><img src="Assets/FLA 1.png"/></></td>
+        </tr>
+        
+        </table>
+    
+        </section>
+    </main>
+    
+     <footer>
+        <div class="botao">
+        <span id="news">Newsletter</span>
+        <span id="email">E-mail</span>
+        <a id="cadastro" href="">Cadastrar</a>
+        </div>
+        <div class="redes_sociais">
+        <span id="siga">Siga-nos:</span>
+        <img id="insta" src="Assets/instagram.png" alt="">
+        <img id="face" src="Assets/facebook.png" alt="">
+        <img src="Assets/youtube.png" alt="">
+        </div>
+        <div class="links_footer">
+        <a href="">Páginas</a>
+        <a href="">Home</a>
+        <a href="">Cadastre-se</a>
+        <a href="">Fale Conosco</a>
+        <a href="">Políticas de Privacidade</a>
+       </div>
+    
+        <img src="assets/logoeplayers.png" alt="">
+    </footer>
+    </section>
+    
+</body>
+</html>

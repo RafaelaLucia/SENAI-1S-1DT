@@ -1,0 +1,157 @@
+@model Usuario
+
+@{
+    ViewData["Title"] = "Feed";
+}
+
+<header class="Hheaderr">
+    <div class="Hcabecalho">
+
+        <div class="Hlogo">
+            <a><img class="Hlogodev" src="/img/Instadev (1).png" alt="Instadev"></a>
+        </div>
+
+        <div class="Hpesquisa">
+            <input class="Hpesq" placeholder="   Pesquisar" type="text">
+            <img class="Hlupa" src="/img/Buscar.png" alt="">
+        </div>
+
+        <div class="Hcoisas">
+            <div class="Hcoisinhas">
+                <a asp-area="" asp-controller="Feed" asp-action="Index"> <img src="/img/Vector.png" alt=""> </a>
+                <a href="#"> <img src="/img/plane 1.png" alt=""> </a>
+                <a href="#"> <img src="/img/compass 1.png" alt=""> </a>
+                <a href="#"> <img src="/img/Vector (1).png" alt=""> </a>
+
+                <a asp-area="" asp-controller="Perfil" asp-action="Index"> <img class="Hperfil"
+                        src="/img/@ViewBag.FotoUsuario"></a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="Fstories">
+    <div class="Fcontainer">
+        <div class="Fsessao_stories">
+            <div class="Fconteudo_stories">
+                @foreach (Usuario usuario in ViewBag.Usuario)
+                {
+                    <div class="Fperfil_stories">
+                        <img src="/img/@ViewBag.FotoUsuario">
+                        <div id="Fnome">
+                            @usuario.NomeUsuario
+                        </div>
+                    </div>
+                }
+
+            </div>
+            <div class="Fperfil_acesso">
+                <a asp-area="" asp-controller="Perfil" asp-action="Index">
+                    <img src="/img/@ViewBag.FotoUsuario">
+                </a>
+                <div class="Facesso_nomes">
+                    <a id="Facesso_perfil" asp-area="" asp-controller="Perfil" asp-action="Index">
+                        @ViewBag.NomeUsuario
+                    </a>
+                    <a id="Facesso_perfil2" asp-area="" asp-controller="Perfil" asp-action="Index">
+                        @ViewBag.NomeCompleto
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="Fpostagem">
+    <div class="Fcontainer">
+        <div class="Fconteudo_postagem">
+            <div class="Fperfil_postagem">
+                <div id="Fimg_postagem">
+                    <img src="/img/@ViewBag.FotoUsuario">
+                </div>
+                <div id="Fnome_postagem">Postar</div>
+            </div>
+            <div class="Finput_postagem">
+                <form class="form_post" action='@Url.Action("CadastrarPost")' method="POST"
+                    enctype="multipart/form-data">
+                    <input id="Fdesc_postagem" name="legendaPublicacao" type="text"
+                        placeholder="Digite a descrição da imagem...">
+                    @* <label for="file" class="Flabel">Escolha a imagem</label> *@
+                    @* <input type="file" value="Escolha a imagem" name="imagem" id="Fadd_img"> *@
+                    
+                        <div>
+                            <label class="Flabel" for="imagem">Escolha a imagem</label>
+                            <input id="imagem" type="file" name="imagem">
+                        </div>
+
+                    <button id="Ffn_postagem" class="Flabel" type="submit">Postar</button>
+
+                </form>
+                @* <label id="Ffn_postagem" class="Flabel">Postar</label> *@
+            </div>
+        </div>
+    </div>
+</div>
+
+@foreach (Publicacao publicacao in ViewBag.Publicacao)
+{
+    <div class="Fpost">
+        <div class="Fcontainer">
+            <div class="Fconteudo_post">
+                <div class="Fperfil_post">
+                    <div id="Fimg_post">
+                        <img src="/img/@ViewBag.FotoUsuario">
+                    </div>
+                    <div id="Fnome_post">@ViewBag.NomeUsuario</div>
+                </div>
+
+                @* <img class="Fimg" src="/img/bolo.jpg"> *@
+                <img src="/imgPubli/Posts/@publicacao.imagem" width="610px" height="343px">
+
+                <div class="Fsessao_post">
+                    <div class="Fsessao1">
+                        <img src="/img/Vector (1).png">
+                        <img src="/img/msg.png">
+                        <input id="Fpost_comentar" type="text" placeholder="Comentar">
+                    </div>
+                    <h4 class="Fh4">1023 Curtidas</h4>
+                    
+                    <div class="Fsessao2">
+                        <table class="Fcomentario">
+
+                        
+                            <tr>
+                               @* <th>@publicacao.nomeDeUsuario</th> *@
+                               @* <th>@publicacao.nome</th>
+                               <th>@publicacao.nomeDeUsuario</th> 
+                               <th>@ViewBag.Nickname</th> *@
+                               <td>@publicacao.legendaPublicacao</td>
+                               @* <th>@publicacao.quemPostou</th> *@
+                            </tr>
+                        
+                            <tr>
+                                <th>
+                                    @ViewBag.NomeUsuario
+                                </th>
+                                <td>
+                                    @publicacao.legendaPublicacao
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>Fulano</th>
+                                <td>Muito Legal</td>
+                                @* <td><img src="/img/Vector (1).png" alt=""></td> *@
+                            </tr>
+
+                            <tr>
+                                <th>Ciclano</th>
+                                <td>Eba</td>
+                                @* <td><img src="/img/Vector (1).png" alt=""></td> *@
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

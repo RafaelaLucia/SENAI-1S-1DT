@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\bin\Debug\net5.0\PolimorfismoExemplo.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\bin\Debug\net5.0\PolimorfismoExemplo.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\bin\Debug\net5.0\PolimorfismoExemplo.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\bin\Debug\net5.0\PolimorfismoExemplo.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\bin\Debug\net5.0\PolimorfismoExemplo.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\bin\Debug\net5.0\ref\PolimorfismoExemplo.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\bin\Debug\net5.0\PolimorfismoExemplo.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\ref\PolimorfismoExemplo.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\PolimorfismoExemplo\obj\Debug\net5.0\PolimorfismoExemplo.genruntimeconfig.cache

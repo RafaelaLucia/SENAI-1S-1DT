@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\bin\Debug\net5.0\ExemploMetodoConstrutores.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\bin\Debug\net5.0\ExemploMetodoConstrutores.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\bin\Debug\net5.0\ExemploMetodoConstrutores.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\bin\Debug\net5.0\ExemploMetodoConstrutores.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\bin\Debug\net5.0\ExemploMetodoConstrutores.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\bin\Debug\net5.0\ref\ExemploMetodoConstrutores.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\bin\Debug\net5.0\ExemploMetodoConstrutores.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ref\ExemploMetodoConstrutores.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploMetodoConstrutores\obj\Debug\net5.0\ExemploMetodoConstrutores.genruntimeconfig.cache

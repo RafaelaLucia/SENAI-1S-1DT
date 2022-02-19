@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\bin\Debug\net5.0\ref\ExemploSwitch.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ref\ExemploSwitch.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\Feito em Aula\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.genruntimeconfig.cache

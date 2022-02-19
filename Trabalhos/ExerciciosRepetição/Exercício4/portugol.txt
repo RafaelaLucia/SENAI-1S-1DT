@@ -1,0 +1,44 @@
+programa{
+
+    inteiro numerop
+    inteiro numerof
+    inteiro fibo
+    inteiro f
+    inteiro p 
+    inteiro Fibo
+
+    funcao inicio (){
+        
+        //loop
+        numerop = 0
+        numerof = 1
+        fibo = ""
+
+        para variável de valor 0 ate valor 14 passo inteiro faca
+        // para (inteiro valor = 0; valor < 14; inteiro ++)
+        
+        fibo = numerop + numerof
+        numerop = numerof
+        numerof = fibo
+        escreva (fibo)
+
+       fimpara
+
+       escreva (===============================================)
+       
+       //while
+       f = 1
+       p = 1
+       Fibo = 0
+
+       enquanto (Fibo < 500) entao
+       
+       Fino = p + f
+       escreva (Fibo)
+       p = f
+       f = Fibo
+      
+      fimenquanto
+
+    }
+}

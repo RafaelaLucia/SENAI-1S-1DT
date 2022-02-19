@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\bin\Debug\net5.0\ExemploObjetoArgumento.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\bin\Debug\net5.0\ExemploObjetoArgumento.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\bin\Debug\net5.0\ExemploObjetoArgumento.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\bin\Debug\net5.0\ExemploObjetoArgumento.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\bin\Debug\net5.0\ExemploObjetoArgumento.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\bin\Debug\net5.0\ref\ExemploObjetoArgumento.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\bin\Debug\net5.0\ExemploObjetoArgumento.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ref\ExemploObjetoArgumento.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploObjetoArgumento\obj\Debug\net5.0\ExemploObjetoArgumento.genruntimeconfig.cache

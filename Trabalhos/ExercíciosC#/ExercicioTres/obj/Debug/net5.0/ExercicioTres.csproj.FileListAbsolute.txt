@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\bin\Debug\net5.0\ExercicioTres.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\bin\Debug\net5.0\ExercicioTres.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\bin\Debug\net5.0\ExercicioTres.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\bin\Debug\net5.0\ExercicioTres.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\bin\Debug\net5.0\ExercicioTres.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\bin\Debug\net5.0\ref\ExercicioTres.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\bin\Debug\net5.0\ExercicioTres.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ref\ExercicioTres.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioTres\obj\Debug\net5.0\ExercicioTres.genruntimeconfig.cache

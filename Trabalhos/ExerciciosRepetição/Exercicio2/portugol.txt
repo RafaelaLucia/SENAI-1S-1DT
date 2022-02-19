@@ -1,0 +1,28 @@
+programa{
+
+    caractere nome
+    caractere senha
+
+    funcao inicio (){
+
+        logico senhaValor = FALSO
+
+        escreva (Insira seu nome de usuário: )
+        leia (nome)
+
+        enquanto (senhaValor = FALSO) entao
+        
+        escreva (insira sua senha)
+        leia (senha)
+
+        se (nome <> senha) entao
+        escreva (senha válida)
+        senhaValor = VERDADEIRO
+
+        senao 
+        escreva (Senha inválida, a senha não pode ser igual ao nome do usuário)
+        fimse
+        
+        fimenquanto
+    }
+}

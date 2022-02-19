@@ -1,0 +1,7 @@
+bin/
+obj/
+
+//quando subir coisas para o github nao vai ter nem a pasta obj nem a pasta bin, para nao dar problema na pasta quando
+// por em outro pc
+
+// no terminal "dotnet build" vai criar essas pastas novamente :)

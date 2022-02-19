@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\bin\Debug\net5.0\ElevadorCorrecao.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\bin\Debug\net5.0\ElevadorCorrecao.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\bin\Debug\net5.0\ElevadorCorrecao.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\bin\Debug\net5.0\ElevadorCorrecao.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\bin\Debug\net5.0\ElevadorCorrecao.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\bin\Debug\net5.0\ref\ElevadorCorrecao.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\bin\Debug\net5.0\ElevadorCorrecao.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ref\ElevadorCorrecao.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ElevadorCorrecao\obj\Debug\net5.0\ElevadorCorrecao.genruntimeconfig.cache

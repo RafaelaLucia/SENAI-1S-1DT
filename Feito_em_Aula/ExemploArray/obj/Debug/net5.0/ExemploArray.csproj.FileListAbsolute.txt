@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\bin\Debug\net5.0\ExemploArray.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\bin\Debug\net5.0\ExemploArray.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\bin\Debug\net5.0\ExemploArray.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\bin\Debug\net5.0\ExemploArray.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\bin\Debug\net5.0\ExemploArray.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\bin\Debug\net5.0\ref\ExemploArray.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\bin\Debug\net5.0\ExemploArray.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ref\ExemploArray.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploArray\obj\Debug\net5.0\ExemploArray.genruntimeconfig.cache

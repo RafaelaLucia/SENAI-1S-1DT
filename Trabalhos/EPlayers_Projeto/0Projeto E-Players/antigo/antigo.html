@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Jogador</title>
+    <link rel="stylesheet" href="estilojogador.css">
+</head>
+
+<body>
+
+    <header>
+        <iframe src="header.html" style="height: 100%;"
+        width="100%;"  frameborder="0"></iframe>
+    </header>
+
+    <main>
+    <section class="banner">
+        <h1>Cadastro de Jogador</h1>
+        <div></div>
+        <img src="assets/bannerjogador.png" alt=""> 
+    </section>
+
+    <section class="conteudo">
+        <div class="bloco">
+
+    <section>
+        <form action="/post">
+        
+        <section class="campos">
+        <label for="texto" id="l_nome">Nome do Jogador</label>
+        <input id="texto" type="text">
+
+        <label id="l_email" for="email">Email</label>
+        <input id="email" type="email">
+
+        <label id="l_senha" for="senha">Senha</label>
+        <input id="senha" type="password">
+        </section>
+
+        <section class="opcao">
+        <label for="lista_equipes">Equipe</label>
+        <select name="equipes" id="lista_equipes">
+          <option value="senai_Cytechs">Senai Cytechs</option>
+          <option value="flamengo">Flamengo</option>
+        </select>
+      </section>
+
+      <section class="botao">
+      <input id="botao" type="submit" value="Cadastrar">
+      </section>
+
+    </form>
+    </section>
+
+
+    <section class="tabela1">
+    <table class="tabela">
+    <h2>Lista de Jogadores</h2>
+    <tr>
+        <th id="nome">Nome do Jogador</th>
+        <th id="equipe">Equipe</th>
+    </tr>
+    <tr>
+        <td>Thiago</td>
+        <td>Senai Cytechs</td>
+    </tr>
+    <tr>
+        <td>Odirlei</td>
+        <td>Senai Cytechs</td>
+    </tr>
+    
+    </table>
+
+    </section>
+
+    </main>
+    
+    <footer>
+        <iframe src="footer.html" style="height: 288px;"
+        width="100%;" frameborder="0"></iframe>
+    </footer>
+    </section>
+    
+</body>
+</html>

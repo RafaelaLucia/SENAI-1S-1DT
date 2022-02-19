@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - MVCEplayers</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="container cabecalho">
+            <div>
+                <a href="#" onclick="botaoMenu()">
+                    <i class="fas fa-bars"></i>
+                </a>
+            <a asp-area="" asp-controller="Home" asp-action="Index">
+                <img src="/Assets/logoeplayers.png" alt="Logo do site E-Players">
+            </a>
+            </div>
+            <nav id="menu">
+                <ul>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Index" title="voltar para a página inicial">INÍCIO</a></li>
+                    <li><a href="index.html#horarios" title="Ir até a sessão de horários das partidas">HORÁRIOS</a></li>
+                    <li><a href="index.html#resultados" title="Ir até a sessão de resultados das partidas">RESULTADOS</a></li>
+                    <li><a href="index.html#noticias" title="Ir até a sessão de notícias">NOTÍCIAS</a></li>
+                    @if (ViewBag.UserName != null)
+                    {
+                        <li style="color: #d5379b">Olá @ViewBag.UserName</li>
+                        <li><a asp-area="" asp-controller="Login" asp-action="Logout">LOGOUT</a></li>
+                    }else{
+                    <li><a asp-area="" asp-controller="Login" asp-action="Index">LOGIN</a></li>
+                    }
+                    <li><a href="#" title="buscar conteudo no site"><i class="fas fa-search"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+   <footer>
+        <div class="container">
+            <div>
+                <nav>
+                    <ul>
+                        <li><a href="#">Páginas</a></li>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Cadastre-se</a></li>
+                        <li><a href="#">Fale Conosco</a></li>
+                        <li><a href="#">Políticas de Privacidade</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div>
+                <img src="/Assets/logoeplayers.png" alt="Logo do projeto E-Players">
+            </div>
+        <div> 
+            <h3>Siga-nos:</h3>
+            <img src="/Assets/instagram.png" alt="">
+            <img src="/Assets/facebook.png" alt="">
+            <img src="/Assets/youtube.png" alt="">
+        </div>
+    </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

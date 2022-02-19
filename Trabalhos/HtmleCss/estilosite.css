@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+body {
+    width:1366;
+
+}
+.cabecalho {
+    background-color: rgb(16, 16, 16);
+    width: 1366;
+    height: 59;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: honeydew;
+    float: left;
+
+    position: fixed;
+    z-index: 99;
+}
+
+.menu {
+    margin: 35;
+}
+
+.inscrever {
+    margin: 36;
+    text-decoration: none;
+    color: #b5b5b5;
+    letter-spacing: 1;
+    font-size: 12;
+    font-weight: bold;
+}
+
+.entrar {
+    text-decoration: none;
+    color:black;
+    letter-spacing: 1;
+    background-color: white;
+    border-radius: 20px; 
+    padding: 10;
+    font-size: 12;
+}
+
+nav :hover {
+    color:rgb(255, 255, 255)
+}
+
+/* aside verde escuro*/
+.primeira-parte {
+    background-color: rgb(0, 0, 0);
+    width: 295px;
+    height: 655px;
+    position: relative;
+    bottom: 55;
+    z-index: 9999;
+    
+    
+}
+
+/* Menu Style */
+.iniciar {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15;
+    color: #b5b5b5;
+    display: flex;
+}
+
+.buscar {
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #B5B5B5;
+}
+
+.salvos {
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #B5B5B5;
+}
+/* fim da Menu Style */
+
+/* links azul*/
+.links {
+    background-color: rgb(0, 0, 0);
+    width: 244;
+    height: 290;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+/* criar playlist tomato*/
+.segunda-parte {
+    background-color: rgb(0, 0, 0);
+    width: 244;
+    height: 1;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* playlist rosa*/
+.playlists {
+    background-color:rgb(0, 0, 0);
+    width: 125;
+    height: 44;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #B3B3B3;
+}
+
+.link-dois {
+    background-color: rgb(28, 28, 194);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.criar {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #b5b5b5;
+    font-weight: bold;
+    
+}
+
+.curtidas {
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #B5B5B5;
+    font-weight: bold;
+}
+
+main {
+    width: 1366;
+    height: 654;
+    background: rgb(33,48,56);
+background: linear-gradient(0deg, rgba(33,48,56,1) 13%, rgba(14,23,27,1) 100%);
+    
+}
+.a-logo {
+    background-color: rgb(0, 0, 0);
+    width: ;
+    height: 39;
+    margin-left: ;
+    position: relative;
+    bottom: 1160;
+    left: 15;
+    z-index: 99999;
+    
+}
+
+.imagem-sp {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background-color: blueviolet;
+}
+
+.gambiarra {
+    background-color:gold;
+    width: ;
+    height: 55;
+    float: left;
+    z-index: 99;
+}
+
+/* footer verde claro*/
+.footer {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    height: 266;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12;
+}
+
+.Cookies {
+    text-decoration: none;
+    color: #B5B5B5;
+}
+
+.Privacy {
+    text-decoration: none;
+    color: #B5B5B5;
+}
+/*footer*/
+
+.teste {
+    margin: 40px 0;
+    color: rgb(153, 74, 74);
+}
+
+#foto {
+    background-color: darkblue;
+    width: 500;
+    height: 200;
+    position: relative;
+    display: flex;
+}
+
+#banner {
+    background-color: darkorange;
+    width: 232;
+    height: 232;
+    position: relative;
+    left: 330;
+    bottom: 580;
+    margin-top: 10;
+}
+
+#Titulo1 {
+    position: relative;
+    left: 580;
+    bottom: 750;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 85;
+    letter-spacing:-3;
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+#minititulo {
+    position: relative;
+    left: 580;
+    bottom: 875;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 12;
+}
+
+#descricao {
+    position: relative;
+    left: 580;
+    bottom: 750;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12;
+    font-weight: bold;
+}
+
+#info {
+    position: relative;
+    left: 580;
+    bottom: 750;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12;
+}
+
+#botao {
+    
+    width: 80;
+
+    position: relative;
+    left: 315;
+    bottom: 700;
+}
+
+#coracao {
+    width: 33;
+    position: relative;
+    left: 330;
+    bottom: 720;
+}
+
+body {
+    height: 200;
+    width: 500;
+}
+
+html {
+    height: 650;
+    width: 1380;
+}

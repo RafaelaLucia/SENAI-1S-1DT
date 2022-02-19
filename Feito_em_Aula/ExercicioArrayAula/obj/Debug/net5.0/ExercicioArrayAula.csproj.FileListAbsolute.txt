@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\bin\Debug\net5.0\ExercicioArrayAula.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\bin\Debug\net5.0\ExercicioArrayAula.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\bin\Debug\net5.0\ExercicioArrayAula.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\bin\Debug\net5.0\ExercicioArrayAula.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\bin\Debug\net5.0\ExercicioArrayAula.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\bin\Debug\net5.0\ref\ExercicioArrayAula.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\bin\Debug\net5.0\ExercicioArrayAula.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ref\ExercicioArrayAula.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExercicioArrayAula\obj\Debug\net5.0\ExercicioArrayAula.genruntimeconfig.cache

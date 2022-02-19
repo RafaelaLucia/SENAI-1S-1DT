@@ -1,0 +1,32 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ref\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ref\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Progamas\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.genruntimeconfig.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ref\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\bin\Debug\net5.0\ExercicioQuatro.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ref\ExercicioQuatro.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ExercíciosC#\ExercicioQuatro\obj\Debug\net5.0\ExercicioQuatro.genruntimeconfig.cache

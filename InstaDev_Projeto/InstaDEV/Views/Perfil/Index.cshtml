@@ -1,0 +1,113 @@
+@{
+    ViewData["Title"] = "Perfil";
+}
+
+<header class="Hheaderr">
+    <div class="Hcabecalho">
+
+        <div class="Hlogo">
+            <a asp-area="" asp-controller="Feed" asp-action="Index"><img class="Hlogodev" src="/img/Instadev (1).png"
+                    alt="Instadev"></a>
+        </div>
+
+        <div class="Hpesquisa">
+            <input class="Hpesq" placeholder="   Pesquisar" type="text">
+            <img class="Hlupa" src="/img/Buscar.png" alt="">
+        </div>
+
+        <div class="Hcoisas">
+            <div class="Hcoisinhas">
+                <a asp-area="" asp-controller="Feed" asp-action="Index"> <img src="/img/Vector.png" alt=""> </a>
+                <a href="#"> <img src="/img/plane 1.png" alt=""> </a>
+                <a href="#"> <img src="/img/compass 1.png" alt=""> </a>
+                <a href="#"> <img src="/img/Vector (1).png" alt=""> </a>
+                <a> <img class="Hperfil" src="/img/@ViewBag.FotoUsuario" asp-area="" asp-controller="Perfil"
+                        asp-action="Index"></a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<main class="Pmain">
+    <section class="Pcontainer_informacoes">
+     
+        <form>
+            <img src="/img/@ViewBag.FotoUsuario" class="Pfoto_Perfil" alt="">
+        </form>
+
+            
+        <div class="Pinformacoes_pai">
+            <h1 class="Ph1">@ViewBag.NomeUsuario</h1>
+            <div class="Pinformacoes_filho">
+                <p>0 publicações</p>
+                <p>128 seguindo</p>
+                <p>214 seguidores</p>
+            </div>
+            <h3 class="Ph3">@ViewBag.NomeCompleto</h3>
+            <div class="Pbotao_sair">
+                <a asp-area="" asp-controller="Edicao" asp-action="Index" class="Pa">Alterar Perfil</a>
+
+                @if (ViewBag.NomeUsuario != null)
+                {
+                    <a asp-area="" asp-controller="Login" asp-action="Index" class="Pa">Sair</a>
+                }
+            </div>
+        </div>
+     </div> 
+        
+    </section>
+
+    <hr class="Phr">
+
+    <div class="Picone">
+        <img src="/img/image 1.png" alt="">
+        <p>Publicações</p>
+    </div>
+
+    <section class="Pcontainer_publicacoes">
+        @foreach (Publicacao publicacao in ViewBag.PublicacaoPerfil)
+        {
+            <section class="Pformu">
+                <div class="Pcampo">
+                    <div class="PPubli_imagem">
+                        <img src="~/imgPubli/Posts/@publicacao.imagem" alt="">
+                    </div>
+                </div>
+
+                <div class="Publi_descricao">
+                    <img src="/img/@ViewBag.FotoUsuario" alt="">
+                    <div class="Pdescricao_pai">
+                        <label for="Nome">@ViewBag.NomeCompleto</label>
+                        <label for="up">Rio de Janeiro, Brazil</label>
+                    </div>
+                </div>
+
+                <div class="Pdescricao_filho">
+                    <input type="text" value="@publicacao.legendaPublicacao">
+                    <img src="/img/Vector (1).png" alt="">
+                    <img src="/img/msg.png" alt="">
+                    <h5>2545 Curtidas</h5>
+                </div>
+
+                <table class="Pcomentario">
+                    <tr>
+                        <th>Fulano</th>
+                        <td>Muito Legal</td>
+                        <td><img src="/img/Vector (1).png" alt=""></td>
+                    </tr>
+
+                    <tr>
+                        <th>Ciclano</th>
+                        <td>Eba</td>
+                        <td><img src="/img/Vector (1).png" alt=""></td>
+                    </tr>
+
+                </table>
+
+                <div class="Pup">
+                    <h4 class="Pcomentario">Ver todos os comentários</h4>
+                </div>
+            </section>
+        }
+    </section>
+</main>

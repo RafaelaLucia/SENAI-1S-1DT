@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\bin\Debug\net5.0\ExemploInterface.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\bin\Debug\net5.0\ExemploInterface.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\bin\Debug\net5.0\ExemploInterface.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\bin\Debug\net5.0\ExemploInterface.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\bin\Debug\net5.0\ExemploInterface.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\bin\Debug\net5.0\ref\ExemploInterface.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\bin\Debug\net5.0\ExemploInterface.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ref\ExemploInterface.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\ExemploInterface\obj\Debug\net5.0\ExemploInterface.genruntimeconfig.cache

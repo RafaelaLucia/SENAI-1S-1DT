@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\bin\Debug\net5.0\Exercício 6.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\bin\Debug\net5.0\Exercício 6.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\bin\Debug\net5.0\Exercício 6.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\bin\Debug\net5.0\Exercício 6.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\bin\Debug\net5.0\Exercício 6.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\bin\Debug\net5.0\ref\Exercício 6.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\bin\Debug\net5.0\Exercício 6.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\ref\Exercício 6.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\ListaDeExercícios\Vetores\Exercício 6\obj\Debug\net5.0\Exercício 6.genruntimeconfig.cache

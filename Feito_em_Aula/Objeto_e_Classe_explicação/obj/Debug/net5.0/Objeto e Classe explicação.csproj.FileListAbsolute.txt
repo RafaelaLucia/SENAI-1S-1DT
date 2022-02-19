@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\bin\Debug\net5.0\Objeto e Classe explicação.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\bin\Debug\net5.0\Objeto e Classe explicação.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\bin\Debug\net5.0\Objeto e Classe explicação.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\bin\Debug\net5.0\Objeto e Classe explicação.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\bin\Debug\net5.0\Objeto e Classe explicação.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\bin\Debug\net5.0\ref\Objeto e Classe explicação.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\bin\Debug\net5.0\Objeto e Classe explicação.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\ref\Objeto e Classe explicação.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Objeto e Classe explicação\obj\Debug\net5.0\Objeto e Classe explicação.genruntimeconfig.cache

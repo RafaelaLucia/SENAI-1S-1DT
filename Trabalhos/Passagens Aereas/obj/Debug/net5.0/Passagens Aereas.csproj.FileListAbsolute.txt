@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\bin\Debug\net5.0\Passagens Aereas.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\bin\Debug\net5.0\Passagens Aereas.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\bin\Debug\net5.0\Passagens Aereas.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\bin\Debug\net5.0\Passagens Aereas.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\bin\Debug\net5.0\Passagens Aereas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\bin\Debug\net5.0\ref\Passagens Aereas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\bin\Debug\net5.0\Passagens Aereas.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\ref\Passagens Aereas.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Trabalhos\Passagens Aereas\obj\Debug\net5.0\Passagens Aereas.genruntimeconfig.cache

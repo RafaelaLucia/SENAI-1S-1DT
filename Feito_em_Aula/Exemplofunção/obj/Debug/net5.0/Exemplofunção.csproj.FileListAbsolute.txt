@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\bin\Debug\net5.0\Exemplofunção.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\bin\Debug\net5.0\Exemplofunção.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\bin\Debug\net5.0\Exemplofunção.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\bin\Debug\net5.0\Exemplofunção.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\bin\Debug\net5.0\Exemplofunção.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\bin\Debug\net5.0\ref\Exemplofunção.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\bin\Debug\net5.0\Exemplofunção.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\ref\Exemplofunção.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\Exemplofunção\obj\Debug\net5.0\Exemplofunção.genruntimeconfig.cache

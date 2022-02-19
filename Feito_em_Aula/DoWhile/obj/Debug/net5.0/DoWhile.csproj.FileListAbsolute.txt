@@ -1,0 +1,16 @@
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\bin\Debug\net5.0\DoWhile.exe
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\bin\Debug\net5.0\DoWhile.deps.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.dev.json
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\bin\Debug\net5.0\DoWhile.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\bin\Debug\net5.0\ref\DoWhile.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\bin\Debug\net5.0\DoWhile.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.csprojAssemblyReference.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfo.cs
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\ref\DoWhile.dll
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.pdb
+C:\Users\Batat\Downloads\Rafaela\Senai - Tarefas\- Feito em Aula\DoWhile\obj\Debug\net5.0\DoWhile.genruntimeconfig.cache

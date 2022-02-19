@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FAFAFA;
+}
+
+main{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.l_logo{
+    margin: 30px 0;
+    width: 209px;
+}
+
+.l_padraoFonte{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #353535;
+}
+
+.l_padraoLinks{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;  
+    color: #2686CC;
+    text-decoration: none;
+}
+
+.login{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 342px;
+    height: 392px;
+    margin-bottom: 20px;
+    border: 1px solid #F1F1F1;
+}
+
+.login input{
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    width: 267px;
+    height: 35px;
+    margin: 5px 0;
+    padding-left: 10px;
+}
+
+.login button{
+    background: #2686CC;
+    width: 267px;
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin: 15px 0;
+}
+
+.esqueceuSenha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.ou{
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #909090;
+    margin: 0 15px;
+}
+
+.esqueceuSenha hr{
+    width: 109px;
+    height: 0;
+    border-color: #CBCBCB;
+}
+
+.esqueceuSenhaLink{
+    margin: 40px 0;
+}
+
+.l_cadastrese{
+    background-color: white;
+    width: 342px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 3px;
+    background-color: white;
+}
+
+.appLinks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.l_quadradoSpan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.app{
+    display: flex;
+    flex-direction: row;
+    margin-top: 22px;
+}
+
+.app img{
+    width: 147px;
+}
+
+.l_botaoEntrar{
+    border:#2686CC;
+    cursor: pointer;
+}
+
+.l_botaoEntrarTeste{
+    width: 275px;
+    height: 30px;
+    background-color: #2686CC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color: #fff;
+    margin-top: 26px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

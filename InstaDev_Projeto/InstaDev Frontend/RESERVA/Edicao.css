@@ -1,0 +1,252 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+
+body{
+   background-color: #E5E5E5;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   height: 760px;
+ }
+
+ /* --------------------------------------- HEADER ------------------------------------------- */
+ .cabecalho{
+   height: 100%;
+   width: 65%;
+    /* background-color:red ;  */
+   display: flex;
+   justify-content: center;
+   justify-content: space-between;
+}
+
+.headerr{
+   background-color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /* position: absolute; */
+   width: 100%;
+   height: 53px;
+   left: 0px;
+   top: 0px;
+   z-index: 99px;
+}
+
+.logo{
+   height: 100%;
+   width: 6%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /* background-color: blue; */
+}
+
+.logodev{
+   width: 170%; 
+   margin-top: 5px;
+}
+
+.pesquisa{
+   height: 100%;
+   margin-left: 70px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.pesq{
+   width: 220px;
+   border-radius: 3px;
+   background-color:#e9e9e9;
+   height: 25px;
+   text-align: center;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 13px;
+   border: #F1F1F1;
+}
+
+.lupa{
+   display: flex;
+   position: absolute;
+   margin-right: 70px;
+}
+
+.coisas{
+   height: 100%;
+   width: 25%;
+   /* background-color: gray; */
+   display: flex;
+   align-items: center;
+}
+
+.coisinhas{
+   height: 28px;
+   width: 100%;
+   /* background-color: greenyellow; */
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.perfil{
+   width: 32px;
+    height: 32px;
+    border-radius: 50px;
+}
+ /* ----------------------------------------- MAIN ---------------------------------- */
+
+.box_editar{
+   background-color: white;
+    height:  600px;
+    width: 935px;
+    margin-left: 15%;
+    margin-top:  3%;
+}
+
+.linha_editar{
+display: flex;
+}
+
+.linha_escrita hr{
+   position:absolute;
+   left: 168px;
+}
+
+.linha_um{
+   width: 62px;
+   border: 2px solid #000000;
+   transform: rotate(90deg);
+   height: 0px;
+   margin-top:  29px;
+}
+
+.linha_escrita span{
+   font-style: normal;
+   color: #000000;
+   font-size: 15px;
+   font-weight: 600;
+   margin-left: 32px;
+   margin-top: 22px;
+}
+
+.linha_dois{
+   width: 593px;
+   border: 1px solid #F1F1F1;
+   height: 0px;
+   transform: rotate(90deg);
+   top: 63%;
+}
+
+.box_usuario{
+   margin-left: 40%;
+   margin-right: 14%;
+}
+
+.parte_usuario{
+   display: flex;
+   justify-content: space-between;
+   width: 203px;
+   align-items: center;
+}
+
+.parte_usuario img{
+   width: 50px;
+   height: 50px;
+}
+
+.espaço_{
+   display: grid;
+}
+
+h1{
+   font-size: 18px;
+}
+
+a{
+   font-size: 14px;
+   color: #2686CC;
+   text-decoration: none;
+}
+
+.espaço_nome{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 5%;
+}
+
+span{
+   font-weight: 600;
+}
+
+.paragrafo1{
+   padding-top: 2%;
+}
+
+.espaço_escrever{
+   width: 354px;
+   height: 30px;
+   border: 1px solid #DCDCDC;
+   box-sizing: border-box;
+   border-radius: 2px;
+   margin-left: 5%;
+   
+   padding: 14px;
+}
+
+p{
+   color: #909090;
+   font-size: 12px;
+   margin-left: 101px;
+   white-space: pre-line;
+   margin-bottom: 20px;
+   text-align: justify;
+}
+
+.espaço_Nusuario{
+   display: flex;
+   align-items: center;
+   margin-top: 7%;
+   margin-left: -63px;
+}
+
+.espaço_Nusuario span{
+   /* margin-left: -70px; */
+}
+
+
+.paragrafo3{
+   padding-top: 3%;
+}
+
+.espaço_email{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.espaço_final{
+   justify-content: space-between;
+   align-items: center;
+   display: flex;
+   width: 101%;
+   margin-top: 7%;
+}
+
+.button{
+   color:white;
+   font-size: 13px;
+   background-color: #2686CC;
+   border-radius: 2px;
+   width: 66px;
+   height: 30px;
+   margin-left: 18%;
+   border: none;
+   padding: 6px;
+   padding-left: 14px;
+}
+
+ /* ------------------------------------------- FOOTER -------------------------------- */
